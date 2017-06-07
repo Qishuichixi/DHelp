@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.qishui.zhou.assesshomedemo.FirstActivity">
+    <item
+        android:id="@+id/action_settings_first"
+        android:orderInCategory="100"
+        android:title="TabLayout + Fragment"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings_second"
+        android:orderInCategory="100"
+        android:title="BottomNavigationView + Fragment"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings_third"
+        android:orderInCategory="100"
+        android:title="FragmentTabHost + Fragment"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings_four"
+        android:orderInCategory="100"
+        android:title="RadioGroup + RadioButton + Fragment"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings_five"
+        android:orderInCategory="100"
+        android:title="CustomTabView + Fragment"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings_six"
+        android:orderInCategory="100"
+        android:title="TextView+Fragment"
+        app:showAsAction="never" />
+</menu>
